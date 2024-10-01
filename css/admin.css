@@ -1,0 +1,8 @@
+.products , .addproduct , .orders , .addorder{
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.addproduct , .orders , .addorder{
+    display: none;
+}
